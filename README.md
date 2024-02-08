@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65C3F7&random=false&width=435&lines=Hello+There!!;Welcome+to+My+GitHub+Profile;I'm+Khlifa+Elbad)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/khlifaelbad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khlifaelbad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khlifaelbad) 
