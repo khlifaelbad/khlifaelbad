@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65C3F7&random=false&width=435&lines=Hello+There!!;Welcome+to+My+GitHub+Profile+😊;I'm+Khlifa+Elbad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65C3F7&random=false&width=435&lines=Hello+There!!;Welcome+to+My+GitHub+Profile+😊;I'm+Khlifa+Elbad+.)](https://git.io/typing-svg)
 
 <img src="https://camo.githubusercontent.com/c62fae9d5658ceb53190464e928473d3a14e30bc605180d8cd76a8eb5f71eca6/68747470733a2f2f6163656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f3466683577692f77656c636f6d652d352e676966" data-canonical-src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-5.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
