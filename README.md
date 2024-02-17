@@ -8,7 +8,7 @@ I am a student at ALX Holberton School of Software Engineering, where I've had t
 
 When I am not coding or attending to projects, I enjoy learning new things and playing soccer, as well as engaging in great activities like taking strolls around the neighborhood and chatting with family and friends.
 
-## 🌐 Connect with me by:
+## 🌐 Connect With Me By:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/khlifaelbad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khlifaelbad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KhlifaEbad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khlifaelbad)
 
 # 💻 Tech Stack:
@@ -17,9 +17,6 @@ When I am not coding or attending to projects, I enjoy learning new things and p
 ![](https://github-readme-stats.vercel.app/api?username=khlifaelbad&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khlifaelbad&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khlifaelbad&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=khlifaelbad&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote:   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
