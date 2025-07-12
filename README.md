@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65C3F7&random=false&width=435&lines=Hello+There!!;Welcome+to+My+GitHub+Profile+😊;I'm+Khlifa+Elbad.)](https://git.io/typing-svg)
 
-# 👋 Welcome
-
 ![Welcome Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNhYTh1Zml2OWhsNTR6OXd6OGZ5YTF2MHEwYXUwNnc3ZTV4YnAyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ddspjdVMuiIF5wQlto/giphy.gif)
 
 Welcome to my project! This animated greeting sets the tone for a friendly, engaging experience. 🎉
